@@ -1,0 +1,10 @@
+shp_to_tif
+prepare_factors
+table_factors
+disaster_nodisaster_points
+train_test
+encoding
+model
+evaluation_model
+explain_model
+susceptibility_map
